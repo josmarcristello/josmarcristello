@@ -5,7 +5,7 @@ I’m a **Data & Software Engineer** with a strong focus on backend development,
 - Data Engineering: ETL pipelines, orchestration with Dagster, and reporting (often with Power BI)
 - Backend Development: APIs with Django, FastAPI, Flask, database design with PostgreSQL, MongoDB
 - Frontend & UI: Building dynamic UIs with Vue.js, Bootstrap, Material UI
-- DevOps & Infrastructure: Containerized apps with Docker, CI/CD with GitHub Actions
+- DevOps & Infrastructure: Provisioning with Ansible, Containerized apps with Docker, CI/CD with GitHub Actions
 - Monitoring & Logging: Observability with Grafana & Prometheus
 
 ⚡ What I’m Passionate About
@@ -30,7 +30,7 @@ I’m a **Data & Software Engineer** with a strong focus on backend development,
 
 <h3 align="center" style="font-weight: bold;">DevOps</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=6&i=github,githubactions,docker,cloudflare,nginx">
+  <img src="https://skillicons.dev/icons?perline=6&i=github,githubactions,docker,cloudflare,nginx,ansible">
   <br>
   <img src="https://skillicons.dev/icons?perline=6&i=azure,aws,heroku">
   <br>
